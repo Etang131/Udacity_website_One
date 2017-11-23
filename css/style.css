@@ -1,5 +1,5 @@
 body {
-font-family: 'fredoka-one', sans-serif;
+font-family: "fredoka-one", sans-serif;
 color: #7d97ad
 }
 
@@ -23,20 +23,22 @@ header {
     margin-top: 40px;
 }
 
-.title-logo {
-
-}
-
 .lineweight {
     border-width: 7px;
 }
 
-h1, h4 {
+h1,
+h4 {
     text-transform: uppercase;
+}
+
+h6{
+  font-size: 12px;
 }
 
 img {
     border-radius: 10px;
+    max-width: 100%;
 }
 
 .drop-shadow {
